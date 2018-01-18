@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static org.testng.Assert.assertTrue;
 
-
+//Тест на логин
 public class FacebookLoginTest {
 
 
